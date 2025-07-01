@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Sean!  
 
-I am a 2A math student at the [University of Waterloo](https://uwaterloo.ca/).
+I am a 3rd year applied math student at the [University of Waterloo](https://uwaterloo.ca/).
 
 I am interested in financial machine learning, data science and responsive web designs. 
 
